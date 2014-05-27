@@ -13,11 +13,7 @@ public class Entry
     private String pubDate;
     private String source;
 
-    public String getTitle()
-    {
-        return title;
-    }
-
+    public String getTitle() 
     public void setTitle(String title)
     {
         this.title = title;
@@ -33,9 +29,9 @@ public class Entry
         this.link = link;
     }
 
-    public String getDescription()
-    {
-        return description;
+    public String getDescription() {
+    	askaks
+    }
     }
 
     public void setDescription(String description)
